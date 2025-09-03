@@ -1,3 +1,7 @@
+// Aakash Choudhari
+// E&TC-A2
+// 24070123031
+
 #include <iostream>
 using namespace std;
 
